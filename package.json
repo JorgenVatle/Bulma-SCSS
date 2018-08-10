@@ -1,0 +1,22 @@
+{
+  "name": "bulma-scss",
+  "version": "1.0.0",
+  "description": "SCSS version of the popular CSS framework, Bulma.",
+  "main": ".",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JorgenVatle/Bulma-SCSS.git"
+  },
+  "author": "JorgenVatle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JorgenVatle/Bulma-SCSS/issues"
+  },
+  "homepage": "https://github.com/JorgenVatle/Bulma-SCSS#readme",
+  "dependencies": {
+    "bulma": "^0.7.1"
+  }
+}
